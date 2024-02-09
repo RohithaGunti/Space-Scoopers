@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: dfcc087b427b8cb4891e97b8c2f75956
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 377798b451b4b2a4390236e8aa01cd13
+  - enabled: 0
+    path: Assets/Scenes/Maze.unity
+    guid: 0eb3b05cfd1cdb04dbca9ef4b15a0ccb
+  - enabled: 0
+    path: Assets/Scenes/JWST.unity
+    guid: 50e3b1cb3bc0a60419ae02bc2a82adc0
+  - enabled: 1
+    path: Assets/Scenes/Build.unity
+    guid: 509f8fa80c708b343a603a4771d35c85
+  - enabled: 1
+    path: Assets/Scenes/quiz.unity
+    guid: 92308f1b72a14834e9645839ac0331b6
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 1b68757a1b45198409d9c0e70b45f043
+  - enabled: 1
+    path: Assets/Scenes/Sun.unity
+    guid: 8262955a05630d948b65f65a0b965856
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: b2f52e1176e47fc4d8e377497b016cd5
+  - enabled: 1
+    path: Assets/Scenes/sky.unity
+    guid: 1051b05fbeb902a4fbbbf5365412bce7
+  - enabled: 1
+    path: Assets/Scenes/Ufo.unity
+    guid: ee6e16826cdd21e4a95c114c9299fcfc
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+    guid: 24f58b3f0ca02d44eaec7f50bca538f2
+  - enabled: 1
+    path: Assets/Scenes/carina.unity
+    guid: a0ed4fc59424cee40aa32b46616ee490
+  - enabled: 1
+    path: Assets/Scenes/neptune.unity
+    guid: af087a4e7cb6fb9428272d8fea8559cf
+  - enabled: 1
+    path: Assets/Scenes/pillar.unity
+    guid: 28c7f1221f4187543bf34d64ea62ab6a
+  - enabled: 1
+    path: Assets/Scenes/ring.unity
+    guid: c33e29611769eba4c9c507948f2a6d69
+  - enabled: 1
+    path: Assets/Scenes/stephen.unity
+    guid: 75acbee45fa74ed4495f7627cf14770c
+  - enabled: 1
+    path: Assets/Scenes/wasp.unity
+    guid: 0302e407426bcdf4da422e3a0930acf6
+  - enabled: 0
+    path: Assets/Oculus/Interaction/Samples/Scenes/Features/HandGrab.unity
+    guid: 1ca1035b12c67f24d81e7bc5ad627d76
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: 1a83a539ef155654f8cc1005ed5d2c77
+  - enabled: 1
+    path: Assets/Scenes/MazeGame.unity
+    guid: dc4def6b3250d7b4db482a29ab1d4bcd
+  - enabled: 0
+    path: Assets/Scenes/timerscene.unity
+    guid: 3d42d983b15b95742bc9d899aacd6005
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b28201f2c70055043888962eddd7b332, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fc6f3681f4b90d2429337c43af45007f, type: 2}

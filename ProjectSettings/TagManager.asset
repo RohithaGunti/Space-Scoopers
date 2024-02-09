@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pan02
+  - structure
+  - mirroret
+  - empty
+  - pan01
+  - voiles
+  - mirrors
+  - unittized
+  - alien
+  - cliff
+  - carina
+  - neptune
+  - wasp
+  - pillar
+  - ring
+  - stephen
+  - 1mirror
+  - 2secmirror
+  - sunshade
+  - p1
+  - struct
+  - all
+  - jwst
+  - earth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - glow
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
